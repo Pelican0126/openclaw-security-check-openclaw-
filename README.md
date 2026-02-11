@@ -13,11 +13,11 @@ A fool-proof security audit toolkit for self-hosted OpenClaw:
 > 注意 / Note  
 > - 本工具是静态扫描（正则+规则）：输出是“线索告警”，不等于 100% 有漏洞。  
 > - 报告默认脱敏（不会完整打印密钥），避免二次泄露。  
-> - 适合 VPS/云主机一键巡检；也适合发布到 GitHub 给他人复用。  
+> - 适合 VPS/云主机一键巡检。  
 >
 > - This tool performs static checks (regex + heuristics): findings are signals, not final proof of a vulnerability.  
 > - Reports mask secrets by default to avoid secondary leakage.  
-> - Designed for one-click audits on VPS / cloud servers and easy GitHub reuse.
+> - Designed for one-click audits on VPS / cloud servers.
 
 ---
 
